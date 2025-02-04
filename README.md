@@ -1,5 +1,5 @@
-[![license](https://img.shields.io/github/license/plus3it/pshelp-formula.svg)](./LICENSE)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/plus3it/pshelp-formula?branch=master&svg=true)](https://ci.appveyor.com/project/plus3it/pshelp-formula)
+[![license](https://img.shields.io/github/license/MetroStar/pshelp-formula.svg)](./LICENSE)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/MetroStar/pshelp-formula?branch=master&svg=true)](https://ci.appveyor.com/project/MetroStar/pshelp-formula)
 
 # pshelp-formula
 
